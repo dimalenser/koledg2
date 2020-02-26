@@ -1,0 +1,13 @@
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.exe.config
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.exe
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.pdb
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.csprojAssemblyReference.cache
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.csproj.CoreCompileInputs.cache
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.exe
+D:\Коледж\4 курс\Проекти з сі шарпа\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.pdb
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.exe.config
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.exe
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\bin\Debug\dimapr3clasu.pdb
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.csprojAssemblyReference.cache
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.exe
+D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 2\Тодосійчук Дмитро\dimapr3clasu\dimapr3clasu\obj\Debug\dimapr3clasu.pdb
