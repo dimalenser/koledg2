@@ -30,34 +30,74 @@ namespace pr9
         {
             digit = d;
         }
-        public static Fraction operator +(Fraction obj1, Fraction obj2)
+        public static double operator +(Fraction obj1, Fraction obj2)
         {
-            Fraction frac = new Fraction();
-            frac.set_digit(obj1.get_digit() + obj2.get_digit());
-            return frac;
+            double result;
+            result = obj1.get_digit() + obj2.get_digit();
+            return result;
         }
 
-        public static Fraction operator -(Fraction obj1, Fraction obj2)
+        public static double operator -(Fraction obj1, Fraction obj2)
         {
-            Fraction frac = new Fraction();
-            frac.set_digit(obj1.get_digit() - obj2.get_digit());
-            return frac;
+            double result;
+            result = obj1.get_digit() - obj2.get_digit();
+            return result;
         }
 
-        public static Fraction operator *(Fraction obj1, Fraction obj2)
+        public static double operator *(Fraction obj1, Fraction obj2)
         {
-            Fraction frac = new Fraction();
-            frac.set_digit(obj1.get_digit() * obj2.get_digit());
-            return frac;
+            double result;
+            result = obj1.get_digit() * obj2.get_digit();
+            return result;
         }
 
-        public static Fraction operator /(Fraction obj1, Fraction obj2)
+        public static double operator /(Fraction obj1, Fraction obj2)
         {
-            Fraction frac = new Fraction();
-            frac.set_digit(obj1.get_digit() / obj2.get_digit());
-            return frac;
+            double result;
+            result = obj1.get_digit() / obj2.get_digit();
+            return result;
         }
 
+        public static bool operator !=(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() != obj2.get_digit())
+                return true;
+            return false;
+        }
+        public static bool operator ==(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() == obj2.get_digit())
+                return true;
+            return false;
+        }
+
+        public static bool operator <(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() < obj2.get_digit())
+                return true;
+            return false;
+        }
+
+        public static bool operator >(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() > obj2.get_digit())
+                return true;
+            return false;
+        }
+
+        public static bool operator <=(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() <= obj2.get_digit())
+                return true;
+            return false;
+        }
+
+        public static bool operator >=(Fraction obj1, Fraction obj2)
+        {
+            if (obj1.get_digit() >= obj2.get_digit())
+                return true;
+            return false;
+        }
     }
 
 }

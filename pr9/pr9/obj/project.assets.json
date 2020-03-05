@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\igorl\\.nuget\\packages\\": {}
+    "C:\\Users\\dimalenser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igorl\\source\\repos\\pr9\\pr9\\pr9.csproj",
+      "projectUniqueName": "C:\\Users\\dimalenser\\OneDrive\\Документы\\GitHub\\koledg2\\pr9\\pr9\\pr9.csproj",
       "projectName": "pr9",
-      "projectPath": "C:\\Users\\igorl\\source\\repos\\pr9\\pr9\\pr9.csproj",
-      "packagesPath": "C:\\Users\\igorl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igorl\\source\\repos\\pr9\\pr9\\obj\\",
+      "projectPath": "C:\\Users\\dimalenser\\OneDrive\\Документы\\GitHub\\koledg2\\pr9\\pr9\\pr9.csproj",
+      "packagesPath": "C:\\Users\\dimalenser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dimalenser\\OneDrive\\Документы\\GitHub\\koledg2\\pr9\\pr9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\igorl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dimalenser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
